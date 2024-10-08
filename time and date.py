@@ -1,3 +1,8 @@
+"""""
+AUTHOR:DENNIS TAGI
+DATE=08/10/2024
+PYTHON PROGRAM TO DISPLAY time and date in various formats
+"""
 from calendar import month
 from datetime import datetime
 current_time=datetime.now()
