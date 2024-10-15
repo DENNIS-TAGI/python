@@ -1,5 +1,5 @@
 '''
-python program to get odd numbers
+python program to generate n odd numbers
 '''
 
 limit=int(input("enter the limit"))
